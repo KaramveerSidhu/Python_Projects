@@ -1,2 +1,5 @@
 # Python_Projects
-My Python projects.
+
+These are some of the Python Projects, I've created.
+
+All suggestions and improvements are Welcome!
