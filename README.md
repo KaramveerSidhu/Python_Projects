@@ -2,4 +2,4 @@
 
 These are some of the Python Projects, I've created.
 
-All suggestions and improvements are Welcome!
+Kindly go through and all suggestions and improvements are Welcome!
